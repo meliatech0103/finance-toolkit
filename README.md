@@ -4,7 +4,9 @@
 
 ## 🔗 在线访问
 
-👉 [融资计算工具箱](https://finance-toolkit.streamlit.app)
+👉 [融资计算工具箱](https://finance-toolkit-teyj5acuqlyaadtrpsfynp.streamlit.app/)
+
+**GitHub**: https://github.com/meliatech0103/finance-toolkit
 
 ## 🛠️ 功能模块
 
